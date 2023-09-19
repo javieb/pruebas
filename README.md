@@ -3,8 +3,8 @@ J. Esmoris, Desarrollo Web en Entorno Servidor </h1>
 ![Uploading LogoGato.png…]()
 
 ##Indice
-*[Inicio](#Inicio)
-*[Descripción del proyecto](#Descripcion-proyecto)
-*[Estado del proyecto](#Estado-proyecto)
-*[Tecnologías utilizadas](#Teconologias)
-*[Personas implicadas](#Personas)
+- [Inicio](#Inicio)
+- [Descripción del proyecto](#Descripcion-proyecto)
+- [Estado del proyecto](#Estado-proyecto)
+- [Tecnologías utilizadas](#Teconologias)
+- [Personas implicadas](#Personas)
