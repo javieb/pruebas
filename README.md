@@ -7,4 +7,4 @@ J. Esmoris, Desarrollo Web en Entorno Servidor </h1>
 *[Descripción del proyecto]
 *[Estado del proyecto]
 *[Tecnologías utilizadas]
-*[]
+*[Personas implicadas]
